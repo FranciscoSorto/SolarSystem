@@ -15,5 +15,10 @@ public class Main {
         sun.temp="10000000000kelvin";
         sun.radius="9000000km";
         sun.maritalStatus="double";
+
+        Planet2 bastronaut =new Planet2();
+        bastronaut.color="pink";
+        bastronaut.size="343433433km";
+        bastronaut.status="same as MIKE's";
     }
 }
