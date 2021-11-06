@@ -10,10 +10,10 @@ public class Main {
         andromeda.moon = 4;
 
         FeatureSun sun = new FeatureSun();
-        sun.color="blue";
-        sun.heat="600000000kj";
-        sun.temp="5celcius";
-        sun.radius="0.009";
-        sun.maritalStatus="single";
+        sun.color="Red";
+        sun.heat="611111111kj";
+        sun.temp="10000000000kelvin";
+        sun.radius="9000000km";
+        sun.maritalStatus="double";
     }
 }
