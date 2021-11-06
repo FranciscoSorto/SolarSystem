@@ -10,6 +10,7 @@ public class Main {
         andromeda.moon = 4;
 
         FeatureSun sun = new FeatureSun();
+
         sun.color = "Red";
         sun.heat = "611111111kj";
         sun.temp = "10000000000kelvin";
@@ -22,10 +23,11 @@ public class Main {
         astronaut.relationshipStatus = "single";
         astronaut.size = "9999999999km";
 
-        Planet1 astronaut1 = new Planet1();
-        astronaut1.color = "grey";
-        astronaut1.relationshipStatus = "single";
-        astronaut1.size = "99999999999km";
+        //Planet2 features
+        Planet2 bastronaut =new Planet2();
+        bastronaut.color="pink";
+        bastronaut.size="343433433km";
+        bastronaut.status="same as MIKE's";
 
     }
 }
