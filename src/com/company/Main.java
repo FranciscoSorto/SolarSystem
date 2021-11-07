@@ -24,10 +24,16 @@ public class Main {
         astronaut.size = "9999999999km";
 
         //Planet2 features
-        Planet2 bastronaut =new Planet2();
-        bastronaut.color="pink";
-        bastronaut.size="343433433km";
-        bastronaut.status="same as MIKE's";
+        Planet2 bastronaut = new Planet2();
+        bastronaut.color = "pink";
+        bastronaut.size = "343433433km";
+        bastronaut.status = "same as MIKE's";
+
+        //Moon2 Features
+        Moon2 moon2 = new Moon2();
+        moon2.color = "no color";
+        moon2.size = "Big";
+
 
     }
 }
