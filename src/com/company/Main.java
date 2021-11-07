@@ -29,5 +29,10 @@ public class Main {
         bastronaut.size="343433433km";
         bastronaut.status="same as MIKE's";
 
+        //Moon1 features
+        Moon1 moon1 = new Moon1();
+        moon1.color="Red";
+        moon1.size="negative";
+
     }
 }
