@@ -42,5 +42,11 @@ public class Main {
         moon1.dob="98";
         moon1.rings="6";
 
+        //Mars features
+        Mars mars = new Mars();
+        mars.color="Red";
+        mars.size="Yes";
+
+
     }
 }
