@@ -33,6 +33,8 @@ public class Main {
         Moon1 moon1 = new Moon1();
         moon1.color="Red";
         moon1.size="negative";
+        moon1.dob="98";
+        moon1.rings="6";
 
     }
 }
